@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marcello!
 ---
-![banner](https://github.com/marcello-m/marcello-m/blob/decd088082b6e34c4ffaa7d53234104e6670156b/banner.png)
+![banner](https://github.com/marcello-m/marcello-m/blob/1fcf60055115d3611b27028b41d9e8c0765af7f2/banner.png)
 
 I'm a Computer Science and Engineering student from Italy, currently pursuing my Master of Science at Università degli Studi di Brescia.
 
