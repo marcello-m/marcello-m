@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Marcello!
+### Hi there 👋
 ---
 
-I'm a Junior Software Engineer from Italy, graduated in Computer Science and Engineering at University of Brescia.
+I'm a Software Engineer from Italy with an MSc in Computer Science and Engineering at University of Brescia.
 
-- 📫 marcello98manenti@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcello-manenti/)
+- currently at Google London
+- get in touch -> [LinkedIn](https://www.linkedin.com/in/marcello-manenti/)
